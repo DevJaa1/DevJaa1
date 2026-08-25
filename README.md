@@ -50,9 +50,7 @@
 
 | Certificação / Curso | Emissor | Carga Horária | Credencial |
 | :--- | :--- | :---: | :---: |
-| **Java e Spring Boot REST API** | Alura / Udemy / DIO | 40h | [Verificar](https://seu-link-de-credencial.com) |
-| **Banco de Dados Relacional (PostgreSQL)** | Fundação Bradesco / Coursera | 20h | [Verificar](https://seu-link-de-credencial.com) |
-| **Arquitetura de Software e POO** | Origamid / LinkedIn Learning | 30h | [Verificar](https://seu-link-de-credencial.com) |
+| **Java - Itaú com IA BOOTCAMP** | DIO | 45h | [Verificar](https://seu-link-de-credencial.com) |
 ---
 ### 🎓 Formação & Idiomas
 
