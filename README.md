@@ -52,6 +52,13 @@
 | :--- | :--- | :---: | :---: |
 | **Java - Itaú com IA BOOTCAMP** | DIO | 45h | [Verificar](https://seu-link-de-credencial.com) |
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJaa1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaa1&layout=compact&theme=dark"/>
+</div>
+---
 ### 🎓 Formação & Idiomas
 
 - 🎓 **Bacharelado em Engenharia de Software** — *Universidade Católica do Salvador* (5º Semestre | Previsão: 12/2028)
