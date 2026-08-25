@@ -1,9 +1,6 @@
 # Olá, eu sou o João Pedro Costa 👋
 
 ### Estudante de Engenharia de Software | Backend Java
-
-Atualmente no 5º semestre de Engenharia de Software na UCSAL, com foco no desenvolvimento de **APIs RESTful** robustas e escaláveis utilizando **Java** e **Spring Boot**. Tenho experiência prática em modelagem de dados, arquitetura CRUD, testes de endpoints e migração de bancos de dados para a nuvem.
-
 ---
 
 ### 🛠️ Competências Técnicas
