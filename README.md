@@ -46,15 +46,21 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+## 📜 Certificações
+
+| Certificação / Curso | Emissor | Carga Horária | Credencial |
+| :--- | :--- | :---: | :---: |
+| **Java e Spring Boot REST API** | Alura / Udemy / DIO | 40h | [Verificar](https://seu-link-de-credencial.com) |
+| **Banco de Dados Relacional (PostgreSQL)** | Fundação Bradesco / Coursera | 20h | [Verificar](https://seu-link-de-credencial.com) |
+| **Arquitetura de Software e POO** | Origamid / LinkedIn Learning | 30h | [Verificar](https://seu-link-de-credencial.com) |
+---
 ### 🎓 Formação & Idiomas
 
 - 🎓 **Bacharelado em Engenharia de Software** — *Universidade Católica do Salvador* (5º Semestre | Previsão: 12/2028)
 - 🌐 **Inglês:** Intermediário
 
----
-
 ### 📫 Vamos nos conectar?
-
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jua1pedroeng)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevJaa1)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engipsoft@gmail.com)
