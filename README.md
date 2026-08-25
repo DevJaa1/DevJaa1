@@ -55,8 +55,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJaa1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaa1&layout=compact&theme=dark"/>
+  <a href="https://github.com/DevJaa1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJaa1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/DevJaa1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaa1&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  </a>
 </div>
 ---
 ### 🎓 Formação & Idiomas
