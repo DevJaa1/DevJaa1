@@ -19,7 +19,7 @@
 
 ### 🚀 Projetos em Destaque
 
-#### 📦 [Sistema de Gerenciamento de Estoque](https://github.com/DevJaa1)
+#### 📦 [Sistema de Gerenciamento de Estoque](https://github.com/DevJaa1/GerenciadorEstoque)
 > Aplicação para controle completo de produtos, categorias e movimentações de estoque.
 
 * **API RESTful & CRUD:** Desenvolvida em **Spring Boot** com mapeamento completo das rotas HTTP para gerenciamento das entidades.
