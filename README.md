@@ -1,14 +1,14 @@
 # Olá, eu sou o João Pedro Costa 👋
 
-### Estudante de Engenharia de Software | Backend Java
+### Estudante de Engenharia de Software | Desenvolvedor Backend Java
 ---
 
 ### 🛠️ Competências Técnicas
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Linguagens** | `Java` `Python` `JavaScript` |
-| **Backend & Frameworks** | `Spring Boot` `APIs RESTful` `Django` |
+| **Linguagens** | `Java` `Python` `JavaScript` `HTML` |
+| **Backend & Frameworks** | `Spring Boot` `APIs RESTful` `Spring Security` `Spring Framework` `Spring DATA` |
 | **Bancos de Dados** | `PostgreSQL` `H2 Database` `NoSQL` `Cloud DB` |
 | **Ferramentas & Testes** | `Git` `GitHub` `Postman` |
 | **Frontend & UI** | `JavaFX` `HTML5` `CSS3` |
