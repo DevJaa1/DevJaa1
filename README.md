@@ -58,8 +58,8 @@
 
 ### 🎓 Formação & Idiomas
 
-- 🎓 **Bacharelado em Engenharia de Software** — *Universidade Católica do Salvador* (5º Semestre | Previsão: 12/2028)[cite: 1]
-- 🌐 **Inglês:** Intermediário[cite: 1]
+- 🎓 **Bacharelado em Engenharia de Software** — *Universidade Católica do Salvador* (5º Semestre | Previsão: 12/2028)
+- 🌐 **Inglês:** Intermediário
 
 ---
 
