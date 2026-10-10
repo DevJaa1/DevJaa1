@@ -1,6 +1,6 @@
 # Olá, eu sou o João Pedro 👋
 
-### Estudante de Engenharia de Software | Desenvolvedor Backend Java
+### Estudante de Engenharia de Software | Desenvolvedor Backend Java Júnior
 
 ---
 
